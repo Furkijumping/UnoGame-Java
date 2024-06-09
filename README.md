@@ -1,5 +1,3 @@
-Tabii, işte README dosyasının kodlar olmadan bir özeti:
-
 # Uno Game Project
 
 ## Overview
