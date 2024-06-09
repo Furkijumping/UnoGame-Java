@@ -22,4 +22,6 @@ This project aims to implement the popular card game Uno using the Java programm
 - Java programming resources and documentation.
 
 Enjoy playing Uno!
+
+
 <img width="471" alt="image" src="https://github.com/Furkijumping/UnoGame-Java/assets/159194887/07d98f9f-7f1a-4a7c-a4ba-efe1b2d79383">
